@@ -273,9 +273,16 @@ hr {
 }
 .left-text {
   text-align: left !important;
-  padding-left: 5px;
+  padding-left: 8px;
 }
 
+.owner {
+  width: 62%;
+}
+
+.cls{
+  width: 32%;
+}
   
 @page {
   margin: 0.18in 0.44in;
