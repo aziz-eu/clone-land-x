@@ -189,7 +189,7 @@ body {
   padding: 10px;
   border: 1.3px dotted #000;
   border-radius: 2%;
-  padding-bottom: 370px;
+  padding-bottom: 350px;
   position: relative;
 }
 .page-no {
